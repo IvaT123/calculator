@@ -31,7 +31,7 @@ switch (value) {
         }
       
       else {
-        this.setState({answer: "error"})
+        this.setState({result: "error"})
       }
       break;
     }
